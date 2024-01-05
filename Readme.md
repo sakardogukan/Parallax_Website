@@ -20,7 +20,7 @@ At the end of the project, students will be able to;
     Parallax_Website (folder)
     |
     |----readme.md (Definition of the project)          
-    |----images (Images of the project)   
+    |----images_ (Images of the project)   
     |----solution
             |----index.html  
             |----style.css   
@@ -29,4 +29,10 @@ At the end of the project, students will be able to;
                    |---- *.png
 
 ```
+
+### Project View Images:
+
+![images](./images_.jpg)
+
+
 > Designed By DOGUKAN © Nov 2023
